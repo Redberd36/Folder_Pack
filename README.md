@@ -13,7 +13,11 @@ For packaging 3D meshes with their related textures:
 (IMPORTANT- Make sure your 3D mesh(es) and textures are named the same, 
 and seperate your texture name using underscores "_")  
 
-Ex:  Mesh(es): Box.obj, Box.fbx, etc.   Texture(s): Box_Roughness.png, Box_Normal.png, etc.  
+Ex: Mesh(es): 
+Box.obj, Box.fbx, etc.   
+
+Ex: Texture(s): 
+Box_Roughness.png, Box_Normal.png, etc.  
 
 1. Use the Input Directory to find where both 3D mesh(es) and textures reside in. 
 2. Push the "Create Texture Folders" Button 
